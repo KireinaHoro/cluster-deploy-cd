@@ -1,0 +1,3 @@
+[submodule "airootfs/root/cluster-deploy"]
+	path = airootfs/root/cluster-deploy
+	url = git@github.com:KireinaHoro/cluster-deploy

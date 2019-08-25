@@ -1,0 +1,14 @@
+bash
+coreutils
+gptfdisk
+gzip
+linux
+linux-firmware
+lvm2
+sed
+systemd
+util-linux
+vim
+xfsdump
+xfsprogs
+zfs-linux
